@@ -1,0 +1,3 @@
+Welcome to the Untitled Terminal!
+
+At the moment, this terminal is a personal project of mine to see how well I can make a program to function as close as possible to the Bloomberg terminal, but using only free open-source API. This is still in its starting phase, so it's got a long way to go. This will allow you to create your own personal portfolio (essentially a list of assets that you are currently tracking) and get analytics about that portfolio. You are also able to get analytics of any stock ticker that you enter. The list of features will soon be implemented into the README, and it will evolve greatly from here. To start off, type 'help' into the terminal for a list of available commands.
